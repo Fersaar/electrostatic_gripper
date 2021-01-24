@@ -2,6 +2,8 @@
 
 Dieses Projekt ist im Zuge meines Studiums entstanden. Ziel war es, einen Greifer zur Handhabung von dünnen (<20um) Lithiumfolie zu entwickeln. Problematisch bei Lithium ist, dass das Material sehr reaktiv und empfindlich ist. Die Handhabung findet daher meistens in einer Schutzgasatmosphäre wie Argon statt.Pneumatischen Greifer, wie Flächensauggreifer, die gerne in der Folienhandhabung genutzt werden, sind daher problematisch, da als Prozessmedium ebenfalls das SChutzgas genutzt werden müsste. Zudem besteht beim Einsatz von Pneumatik die Gefahr der Kontamination der Folie mit Patikeln aus der Umgebung. Eine Lösung sind daher Elektrostatische Greifer.
 
+Bei Interesse kann ich dir meine komplette Ausarbeitung zukommen lassen.
+
 ## Funktionsprinzip
 
 Basis ist der Effekt, das sich unterschiedliche elektrische Ladungen anziehen. Legt man eine Spannung an zwei parallel zu einander ausgerichteten Platten an, entsteht eine anziehende Karft zwischen beiden Platten (vgl. Kräfte bei einem Plattenkondensator). Ebenso ensteht eine zentrierende Krft, wenn beide Platten zueinander verschoben werden.

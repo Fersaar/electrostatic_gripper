@@ -2,6 +2,8 @@
 
 This project was developed in the course of my studies. The goal was to develop a gripper for handling thin (<20um) lithium foil. The problem with lithium is that the material is very reactive and sensitive. Pneumatic grippers, such as large-area suction pads, which are often used in film handling, are therefore problematic because the inert gas would also have to be used as the process medium. In addition, when using pneumatics, there is a risk of contaminating the film with paticles from the environment. Electrostatic grippers are therefore a solution.
 
+If you are interested, I can send you my complete thesis.
+
 ## Functional principle
 
 The basis is the effect that different electrical charges attract each other. If a voltage is applied to two plates aligned parallel to each other, an attractive force is created between the two plates (compare forces in a plate capacitor). Likewise, a centering force is created when the two plates are moved relative to each other.
