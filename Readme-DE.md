@@ -42,6 +42,7 @@ Bei einer Elektrodenfläche von insgesamt 70 x 70 mm konnte eine maximale Kraft 
 Der praktische Einsatz funktionert ebenfalls:
 
 **Video:**
+
 [![Handling](http://img.youtube.com/vi/Acb63k8iqSQ/0.jpg)](http://www.youtube.com/watch?v=Acb63k8iqSQ "Handling")
 
 Interdigitaldesign für z.B. Papier: 

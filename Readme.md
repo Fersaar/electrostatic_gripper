@@ -31,7 +31,7 @@ To prevent the electrically conductive lithium foil from short-circuiting the tw
 Based on this, different materials were tested. In addition, different disconnection strategies were investigated. In addition to disconnecting the two electrodes from the power supply, the two electrodes were switched to negative or plua for shutdown. Lightly roughened paper was found to be the most suitable, together with short-circuiting the two electrodes via the negative terminal of the power supply. This way a switch-off time of less than one second could be achieved.
 
 ![release_time](Images/release_time.jpg)
-*release times with different isolation materials and turn off methods
+*release times with different isolation materials and turn off methods*
 
 ## Practice
 
@@ -42,6 +42,7 @@ With an electrode area of 70 x 70 mm in total, a maximum force of 0.35 N could b
 The practical application also works:
 
 **Video:**
+
 [![Handling](http://img.youtube.com/vi/Acb63k8iqSQ/0.jpg)](http://www.youtube.com/watch?v=Acb63k8iqSQ "Handling")
 
 Interdigitaldesign for e.g. paper: 
