@@ -1,6 +1,6 @@
 # Elektrostatischer Greifer
 
-Dieses Projekt ist im Zuge meines Studiums entstanden. Ziel war es, einen Greifer zur Handhabung von dünnen (<20um) Lithiumfolie zu entwickeln. Problematisch bei Lithium ist, dass das Material sehr reaktiv und empfindlich ist. Die Handhabung findet daher meistens in einer Schutzgasatmosphäre wie Argon statt.Pneumatischen Greifer, wie Flächensauggreifer, die gerne in der Folienhandhabung genutzt werden, sind daher problematisch, da als Prozessmedium ebenfalls das SChutzgas genutzt werden müsste. Zudem besteht beim Einsatz von Pneumatik die Gefahr der Kontamination der Folie mit Patikeln aus der Umgebung. Eine Lösung sind daher Elektrostatische Greifer.
+Dieses Projekt ist im Zuge meines Studiums entstanden. Ziel war es, einen Greifer zur Handhabung von dünnen (<20um) Lithiumfolie zu entwickeln. Problematisch bei Lithium ist, dass das Material sehr reaktiv und empfindlich ist. Die Handhabung findet daher meistens in einer Schutzgasatmosphäre wie Argon statt.Pneumatischen Greifer, wie Flächensauggreifer, die gerne in der Folienhandhabung genutzt werden, sind daher problematisch, da als Prozessmedium ebenfalls das Schutzgas genutzt werden müsste. Zudem besteht beim Einsatz von Pneumatik die Gefahr der Kontamination der Folie mit Patikeln aus der Umgebung. Eine Lösung sind daher Elektrostatische Greifer.
 
 Bei Interesse kann ich dir meine komplette Ausarbeitung zukommen lassen.
 
@@ -19,7 +19,7 @@ Auf Basis des Bipolar Designs können auch nicht leitende Materialien wie Papier
 
 ![gripper design](Images/gripper_designs.jpg)
 
-## Greiferauslegung
+## Greifer
 
 Der Greifer besteht aus zwei Kupferelektroden mit einer Fläche von jeweils 70 x 35mm. Der Isolationsabstand zwischen den beiden Flächen beträgt 1 bis 2 mm. Zwischen den beiden Elektroden liegt eine Spannung von 1000 V an.
 |  |   |

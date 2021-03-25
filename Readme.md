@@ -19,7 +19,7 @@ Based on the bipolar design, non-conductive materials such as paper can also be 
 
 ![gripper design](Images/gripper_designs.jpg)
 
-## Gripper design
+## Gripper
 
 The gripper consists of two copper electrodes, each with an area of 70 x 35mm. The insulation distance between the two surfaces is 1 to 2 mm. A voltage of 1000 V is applied between the two electrodes.
 | | |
